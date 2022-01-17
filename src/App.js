@@ -1,5 +1,5 @@
 import FanInformation from "./FanInformation";
-import PageHeading from "./PageHeading";
+// import PageHeading from "./PageHeading";
 
 function App() {
 
