@@ -1,5 +1,5 @@
 import FanInformation from "./FanInformation";
-import PageHeading from "./PageHeading";
+// import PageHeading from "./PageHeading";
 
 function App() {
 
@@ -31,11 +31,11 @@ function App() {
 
   return (
     <div>
-      <PageHeading>
+      
         <h1> ALL THE SPORTS TEAMS!!</h1>
         <h2> All The Time</h2>
         
-      </PageHeading>
+   
       <div>
       {
         sportsTeams.map((team, index)=>{
